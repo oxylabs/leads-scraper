@@ -2,15 +2,15 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Leads Scraper](https://oxylabs.io/products/scraper-api/web/leads-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Leads website effortlessly. This brief guide explains how an Leads Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [Leads Scraper](https://oxylabs.io/products/scraper-api/web/leads-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any website effortlessly. This brief guide explains how a Leads Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Leads results by providing your own URLs to our service. We can return the HTML for any Leads page you like.
+You can get results by providing your own URLs to our service. We can return the HTML for any page you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Leads page.
+The example below illustrates how you can get HTML of explorium.ai page.
 
 ```python
 import requests
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Leads Scraper, you can effectively gather personalized data from any Leads web page. Obtain the necessary client information, such as demographic data, contact details, or preference patterns, to understand your target audience and stay one step ahead of your competitors. If you need any help, get in touch with our support team through live chat or send us an email at hello@oxylabs.io.
+With our Leads Scraper, you can effectively gather public personalized data from any web page. Obtain the necessary client information, such as demographic data, contact details, or preference patterns, to understand your target audience and stay one step ahead of your competitors. If you need any help, get in touch with our support team through live chat or send us an email at hello@oxylabs.io.
