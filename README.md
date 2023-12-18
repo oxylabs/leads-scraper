@@ -10,7 +10,7 @@ You can get results by providing your own URLs to our service. We can return the
 
 #### Python code example
 
-The example below illustrates how you can get HTML of [explorium.ai](https://www.explorium.ai/blog/business-data/b2b-leads-data/#) page.
+The example below illustrates how you can get HTML of a [explorium.ai](https://www.explorium.ai/blog/business-data/b2b-leads-data/#) page.
 
 ```python
 import requests
